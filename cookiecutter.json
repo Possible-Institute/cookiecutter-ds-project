@@ -3,9 +3,6 @@
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "project_description": "A short description of the project",
   "author_name": "Your Name Here",
-  "db_username": "user",
-  "db_password": "password",
-  "db_name": "my_database",
   "secret_key": "super_secret_key",
   "openai_api_key": ""
 
