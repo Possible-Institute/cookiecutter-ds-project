@@ -7,8 +7,6 @@
 This project uses Jupyter Notebooks for data analysis and exploration. To get started, follow the steps below:
 
 
-
-
 ## Setting Up OpenAI API
 
 1. Obtain an API key from [OpenAI](https://openai.com/api/).
