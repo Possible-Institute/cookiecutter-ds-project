@@ -18,5 +18,8 @@ This project uses Jupyter Notebooks for data analysis and exploration. To get st
 
 Rename the `.env.example` file to `.env` and update the variables with your specific environment settings. Make sure not to commit sensitive data to your version control system.
 
+An example of usage is shown below:
 
- cookiecutter gh:Possible-Institute/cookiecutter-ds-project
+```bash
+cookiecutter gh:Possible-Institute/cookiecutter-ds-project
+```
